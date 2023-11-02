@@ -1,0 +1,5 @@
+Fonksiyonun türevi: 3*x**2 + 3
+Fonksiyonun kökleri: [-I, I]
+Fonksiyonun ikinci türevi: 6*x
+Yerel minimum deðerleri: [-I, I]
+Yerel maksimum deðerleri: [0]
